@@ -5,7 +5,7 @@ import joblib
 # Load model 
 @st.cache_resource
 def load_model():
-    return joblib.load("model/model.pkl")
+    return joblib.load("model/model_dropout.pkl")
 
 model = load_model()
 
