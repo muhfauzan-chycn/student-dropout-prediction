@@ -3,7 +3,11 @@ import pandas as pd
 import joblib
 
 # Load model 
-model = joblib.load("model/model_dropout.pkl")
+@st.cache_resource
+def load_model():
+    return joblib.load("model/model.pkl")
+
+model = load_model()
 
 st.title("🎓 Student Dropout Prediction System")
 
