@@ -58,6 +58,10 @@ Proyek ini mencakup beberapa tahapan dalam proses data science sebagai berikut:
 
 ## Sumber Data
 
+Dataset yang digunakan dalam proyek ini dapat diakses melalui tautan berikut:
+
+[Student's Performance](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance)
+
 Dataset yang digunakan dalam proyek ini merupakan dataset performa akademik mahasiswa yang mencakup berbagai informasi seperti:
 
 - status perkawinan
