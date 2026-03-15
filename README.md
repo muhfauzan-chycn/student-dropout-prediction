@@ -144,7 +144,7 @@ Dashboard akan otomatis muncul.
 
 Prototype aplikasi prediksi dropout dapat diakses melalui:
 
-https://student-dropout-prediction.streamlit.app/
+https://student-dropout-prediction-muhfauzan-chycn.streamlit.app/
 
 Atau dijalankan secara lokal dengan perintah:
 
